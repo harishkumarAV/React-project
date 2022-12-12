@@ -1,12 +1,12 @@
 import './App.css';
-import PageOne from './hospito/PageOne';
+import PageTwo from './hospito/PageTwo';
 
 
 
 function App() {
   return (
     <div className="App">
-    <PageOne/>
+    <PageTwo/>
     </div>
   );
 }
